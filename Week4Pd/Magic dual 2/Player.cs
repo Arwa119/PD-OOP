@@ -33,7 +33,7 @@ namespace Magic_dual_2
             }
             else if (Energy > MaxEnergy)
             {
-                Energy = MaxEnergy;
+                Energy=MaxEnergy;
             }
         }
         public void Update_health(float value)
